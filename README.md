@@ -11,7 +11,9 @@
 > Estou achando as aulas do prof Ricardo muito boas, pois estavamos mal acostumados com as aulas de um professor ai, agora realmente estamos tendo uma aula de verdade e bem didatica, prof ricardo é bem paciente e didatico.
 ---
 
-> **Conhecimentos**
+> **Conhecimentos:**
+
+
 > [Comando git]( )
 
 
