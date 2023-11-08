@@ -1,5 +1,10 @@
 # Comandos do Git
+---
 
 
-**Git Usuário** - Serve para iniciar o repositorio do git.
-git Add - Serve para vo
+1. **git config --global user.name** - Serve Para setar usuario do git.
+  
+2. **git config --global user.email** - Serve Para setar o email
+
+3. **git config --list** - Serve para Listar as configurações
+
