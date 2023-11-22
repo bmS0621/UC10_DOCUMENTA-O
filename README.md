@@ -17,4 +17,4 @@
 > [Comando git](https://github.com/bmS0621/UC10_DOCUMENTA-O/blob/main/GitComandos.md)
 
 
-> [Codigo.py]( )
+> [Codigo.py](https://github.com/bmS0621/UC10_DOCUMENTA-O/blob/main/Comandos.md)
