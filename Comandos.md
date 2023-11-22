@@ -10,6 +10,9 @@ df.to_excel('nota_aluno.xlsx',index=False)
 ```
 
 ---
-**Na primeira linda deste codigo, estou importanto uma biblioteca do python,
-e dando um nome a ela "**PD**", logo após criamos um df e fizemos a leitura do excel que tinhamos criado com as notas, na terceira linha estamos exibindo as notas.**
+**Neste codigo fizemos um arquivo no excel com tabela de notas de alunos, e passamos para um codigo em python, usando bibiliotecas que a linguaguem nos disponibiliza**
+
+---
+Na primeira linda deste codigo, estou importanto uma biblioteca do python,
+e dando um nome a ela "**PD**", logo após criamos um df e fizemos a leitura do excel que tinhamos criado com as notas, na terceira linha estamos exibindo as notas.
 
