@@ -1,4 +1,5 @@
 # Comandos do Git
+**Os comandos abaixo, foram aprendidos em aula**
 ---
 
 - **Git Init**
