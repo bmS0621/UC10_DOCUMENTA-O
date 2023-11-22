@@ -11,10 +11,11 @@ _Existem dois tipos principais de licenças open source: Copyleft e Permissivas.
 **Alguns exemplos de licenças Copyleft:**
 
 1. GNU General Public License (GPL) - strong
+   * GNU General Public License (Licença Pública Geral GNU), GNU GPL ou simplesmente GPL, é a designação da licença para software idealizada por Richard Matthew Stallman em 1989, no âmbito do projeto GNU da Free Software Foundation (FSF).
 
-2. Mozilla Public License (MPL) - weak
+3. Mozilla Public License (MPL) - weak
 
-3. Eclipse Public License (EPL) - weak
+4. Eclipse Public License (EPL) - weak
 
 **Alguns exemplos de licenças Permissivas:**
 
