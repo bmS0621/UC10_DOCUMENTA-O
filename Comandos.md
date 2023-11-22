@@ -1,4 +1,4 @@
-**Neste codigo fizemos um arquivo no excel com tabela de notas de alunos, e passamos para um codigo em python, usando bibiliotecas que a linguaguem nos disponibiliza**
+## Neste codigo fizemos um arquivo no excel com tabela de notas de alunos, e passamos para um codigo em python, usando bibiliotecas que a linguaguem nos disponibiliza
 ---
 
 ```
