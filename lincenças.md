@@ -1,4 +1,4 @@
-## Tipos de lincença no git Hub e pra que servem!
+## Tipos de lincenças no git Hub e pra que servem!
 
 ---
 
