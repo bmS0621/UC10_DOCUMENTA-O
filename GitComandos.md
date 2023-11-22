@@ -67,5 +67,4 @@ Serve Para setar o email do usuario
 
 `Git config --global User.email`
   
-Serve Para Setar o email do usuario
 
