@@ -15,3 +15,11 @@ _Existem dois tipos principais de licenças open source: Copyleft e Permissivas.
 2. Mozilla Public License (MPL) - weak
 
 3. Eclipse Public License (EPL) - weak
+
+**Alguns exemplos de licenças Permissivas:**
+
+1. MIT
+
+2. Apache 2.0
+
+3. BSD
