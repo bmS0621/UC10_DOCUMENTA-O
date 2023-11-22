@@ -4,6 +4,8 @@
 - **Git Init**
   
 Serve para criar um novo repositorio.
+
+`Git init`
  
 - **Git Status**
   
