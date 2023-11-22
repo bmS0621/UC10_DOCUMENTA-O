@@ -38,8 +38,10 @@ Serve para criar uma nova branch
 Serve Para listar a branch
  
 - **Git Config --Global User.Name**
+
 Serve Para setar o nome de usuario
 
 - **Git config --global User.Email**
+  
 Serve Para Setar o email do usuario
 
