@@ -19,4 +19,4 @@
 
 > [Codigo.py](https://github.com/bmS0621/UC10_DOCUMENTA-O/blob/main/Comandos.md)
 
->[Lincenças](https://github.com/bmS0621/UC10_DOCUMENTA-O/blob/main/lincen%C3%A7as.md) 
+>[Licenças](https://github.com/bmS0621/UC10_DOCUMENTA-O/blob/main/lincen%C3%A7as.md) 
